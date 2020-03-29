@@ -1,0 +1,19 @@
+also
+first
+its
+only
+the
+them
+what
+
+a.compareto(b)
+
+0   ==> equal string
+-ve ==> a before b
++ve ==> b before a
+
+// go back and remove .get()
+
+
+
+
